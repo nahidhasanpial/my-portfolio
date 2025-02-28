@@ -1,49 +1,68 @@
-<!DOCTYPE html>
-<html lang = "en">
-<head>
-    <meta charset = "UTF-8">
-    <meta http-equiv ="X-UA-Compativle" content = "IE-edge">
-    <meta name="viewport" content ="width=device-width, initial-scale= 1">
-    <title>Animated Portfolio website HTML CSS JS |Codehal</title>
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link rel ="stylesheet" href = "style.css">
 
-</head>
-<body>
-    
-    <header class = "header">
-        <a href="#" class="logo">Md Nahid Hasan Pial</a>
-        <nav class="navbar">
-            <a href="#"   style="--i:1;"class ="active">Home</a>
-            <a href="#" style="--i:2;">About</a>
-            <a href="#" style="--i:3;">Skills</a>
-            <a href="#" style="--i:4;">Portfolio</a>
-            <a href="#" style="--i:5;">Contact</a>
-        </nav>
-    </header>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-    <section class="home">
-        <div class="home-content">
-            <h3>Hello, It's Me</h3>
-            <h1>Md Nahid Hasan Pial</h1>
-            <h3>And I'm a <span class ="multiple-text"></span></h3>
-            <p> I am Md Nahid Hasan Pial, a web designer with a passion for cloud security, AI, ML, DevOps, and business.</p>
-            <div class="social-media">
-                <a href ="#" style="--i:7;"><i class='bx bxl-facebook' ></i></a>
-                <a href ="#" style="--i:8;"><i class='bx bxl-twitter' ></i></a>
-                <a href ="#" style="--i:9;"><i class='bx bxl-github' ></i></a>
-                <a href ="#" style="--i:10;"><i class='bx bxl-linkedin' ></i></a>
-            </div>
-            <a href="#" class="btn">Download CV</a>
-        
-        </div>
-        <div class="home-image">
-            <img src="pf.png" alt ="">
-        </div>
-    </section>
-    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+###
 
-    <script src = "script.js"></script>
-</body>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-</html>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Md Nahid Hasan Pial from Bangladesj<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Data science & Machine Learning ⚡ In my free time I sing</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
